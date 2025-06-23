@@ -113,7 +113,7 @@
 
 ###
 
-<p align="left">☁️ Hosting & DevOps</p>
+<h4 align="left">☁️ Hosting & DevOps</h4>
 
 ###
 
