@@ -189,5 +189,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Anuj-K15/Anuj-K15/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://github.com/Anuj-K15/Anuj-K15/blob/output/snake.svg)
+
 
 ###
